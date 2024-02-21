@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@prisma/client": "5.5.2",
+        "axios": "^1.5.1",
+        "prisma": "^5.5.2"
+    }
+}
